@@ -1,0 +1,20 @@
+[package]
+name = "rustsdk"
+version = "0.1.2"
+authors = ["Gergely Brautigam <skarlso777@gmail.com>"]
+description = "Rust based SDK for Gaia Pipelines."
+documentation = "https://github.com/gaia-pipeline/rustsdk/blob/master/README.md"
+homepage = "https://github.com/gaia-pipe"
+repository = "https://github.com/gaia-plugins/rustsdk"
+readme = "README.md"
+keywords = ["gaia", "pipeline", "ci", "cd", "ci/cd"]
+categories = ["api-bindings"]
+license-file = "LICENSE"
+
+[badges]
+travis-ci = { repository = "gaia-pipeline/rustup", branch = "master" }
+is-it-maintained-issue-resolution = { repository = "gaia-pipeline/rustsdk" }
+is-it-maintained-open-issues = { repository = "gaia-pipeline/rustsdk" }
+maintenance = { status = "actively-developed" }
+
+[dependencies]
