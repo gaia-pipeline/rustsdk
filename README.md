@@ -2,7 +2,7 @@
 
 Rust based SDK for Gaia Pipelines
 
-# generated
+# generated
 
 ```
 brew install protobuf
